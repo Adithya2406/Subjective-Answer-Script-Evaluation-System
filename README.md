@@ -1,6 +1,4 @@
 ## Subjective-Answer-Script-Evaluation-System
-A project leveraging Optical Character Recognition (OCR) and Natural Language Processing (NLP) to automatically evaluate handwritten student responses, assign marks, and streamline the grading process.
-
 ---
 **Table of Contents**
 - Overview
